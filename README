@@ -1,0 +1,5 @@
+require IPython
+
+supply a text file ('song', say)
+
+sing.py contains say and say_parallel, which allow for single and multiple voices. To use say_parallel, supply either a string and one voice or a list of strings and a list of voices as long as the list of strings.
