@@ -1,4 +1,4 @@
-require IPython
+requires IPython and Mac OS X
 
 supply a text file ('song', say)
 

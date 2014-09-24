@@ -2,8 +2,8 @@ from sing import *
 
 voice1 = 'Fred'
 
-voices = [voice1, 'Junior', 'Alfred']
-
+# voices = [voice1, 'Junior', 'Alfred']
+voices = ['Junior', 'Albert', 'Vicki']
 lyrics = load_lyrics('opp')
 
 for n, line in enumerate(lyrics):
